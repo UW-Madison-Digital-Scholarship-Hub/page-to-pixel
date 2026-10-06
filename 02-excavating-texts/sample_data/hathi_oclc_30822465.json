@@ -1,0 +1,31 @@
+{
+ "records": {
+  "011629060": {
+   "recordURL": "https://catalog.hathitrust.org/Record/011629060",
+   "titles": [
+    "A tale of two cities"
+   ],
+   "isbns": [],
+   "issns": [],
+   "oclcs": [
+    "30822465"
+   ],
+   "lccns": [],
+   "publishDates": [
+    "1859"
+   ]
+  }
+ },
+ "items": [
+  {
+   "orig": "Harvard University",
+   "fromRecord": "011629060",
+   "htid": "hvd.32044024216053",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044024216053",
+   "rightsCode": "pd",
+   "lastUpdate": "20250111",
+   "enumcron": false,
+   "usRightsString": "Full view"
+  }
+ ]
+}

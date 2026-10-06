@@ -1,0 +1,129 @@
+{
+ "books_toscrape_index": {
+  "file": "books_toscrape_index.html",
+  "final_url": "https://books.toscrape.com/",
+  "note": "practice scraping site",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.18,
+  "url": "https://books.toscrape.com/"
+ },
+ "gutendex_ids_98": {
+  "file": "gutendex_ids_98.json",
+  "final_url": "https://gutendex.com/books/?ids=98",
+  "params": {
+   "ids": "98"
+  },
+  "retrieved": "2026-10-06",
+  "seconds": 25.97,
+  "url": "https://gutendex.com/books/"
+ },
+ "gutendex_search_page1": {
+  "file": "gutendex_search_page1.json",
+  "final_url": "https://gutendex.com/books/?search=dickens&languages=en&topic=&author_year_start=1800&author_year_end=1899",
+  "params": {
+   "author_year_end": 1899,
+   "author_year_start": 1800,
+   "languages": "en",
+   "search": "dickens",
+   "topic": ""
+  },
+  "retrieved": "2026-10-06",
+  "seconds": 78.38,
+  "url": "https://gutendex.com/books/"
+ },
+ "gutendex_search_page2": {
+  "file": "gutendex_search_page2.json",
+  "final_url": "https://gutendex.com/books/?author_year_end=1899&author_year_start=1800&languages=en&page=2&search=dickens&topic=",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 107.32,
+  "url": "https://gutendex.com/books/?author_year_end=1899&author_year_start=1800&languages=en&page=2&search=dickens&topic="
+ },
+ "gutendex_try_your_own": {
+  "file": "gutendex_try_your_own.json",
+  "final_url": "https://gutendex.com/books/?search=austen&languages=en",
+  "params": {
+   "languages": "en",
+   "search": "austen"
+  },
+  "retrieved": "2026-10-06",
+  "seconds": 133.29,
+  "url": "https://gutendex.com/books/"
+ },
+ "hathi_isbn_9780141439600": {
+  "file": "hathi_isbn_9780141439600.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780141439600.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.11,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780141439600.json"
+ },
+ "hathi_isbn_9780394535975": {
+  "file": "hathi_isbn_9780394535975.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780394535975.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.11,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780394535975.json"
+ },
+ "hathi_isbn_9780618249060": {
+  "file": "hathi_isbn_9780618249060.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780618249060.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.11,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780618249060.json"
+ },
+ "hathi_isbn_9780679732761": {
+  "file": "hathi_isbn_9780679732761.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780679732761.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.16,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/isbn/9780679732761.json"
+ },
+ "hathi_oclc_1193890": {
+  "file": "hathi_oclc_1193890.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/oclc/1193890.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.26,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/oclc/1193890.json"
+ },
+ "hathi_oclc_30822465": {
+  "file": "hathi_oclc_30822465.json",
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/oclc/30822465.json",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 0.12,
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/oclc/30822465.json"
+ },
+ "pg1400_raw": {
+  "file": "pg1400_raw.txt",
+  "final_url": "https://aleph.pglaf.org/cache/epub/1400/pg1400.txt",
+  "note": "Project Gutenberg eBook #1400, landing page https://www.gutenberg.org/ebooks/1400; retrieved from the official PGLAF mirror",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 1.88,
+  "url": "https://aleph.pglaf.org/cache/epub/1400/pg1400.txt"
+ },
+ "pg46_raw": {
+  "file": "pg46_raw.txt",
+  "final_url": "https://aleph.pglaf.org/cache/epub/46/pg46.txt",
+  "note": "Project Gutenberg eBook #46, landing page https://www.gutenberg.org/ebooks/46; retrieved from the official PGLAF mirror",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 1.22,
+  "url": "https://aleph.pglaf.org/cache/epub/46/pg46.txt"
+ },
+ "pg98_raw": {
+  "file": "pg98_raw.txt",
+  "final_url": "https://aleph.pglaf.org/cache/epub/98/pg98.txt",
+  "note": "Project Gutenberg eBook #98, landing page https://www.gutenberg.org/ebooks/98; retrieved from the official PGLAF mirror",
+  "params": {},
+  "retrieved": "2026-10-06",
+  "seconds": 2.92,
+  "url": "https://aleph.pglaf.org/cache/epub/98/pg98.txt"
+ }
+}

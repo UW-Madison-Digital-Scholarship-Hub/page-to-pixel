@@ -1,0 +1,46 @@
+{
+ "records": {
+  "003553693": {
+   "recordURL": "https://catalog.hathitrust.org/Record/003553693",
+   "titles": [
+    "Invisible man"
+   ],
+   "isbns": [
+    "9780679732761",
+    "9780679732761"
+   ],
+   "issns": [],
+   "oclcs": [
+    "32176578"
+   ],
+   "lccns": [
+    "72010419"
+   ],
+   "publishDates": [
+    "1995"
+   ]
+  }
+ },
+ "items": [
+  {
+   "orig": "University of Michigan",
+   "fromRecord": "003553693",
+   "htid": "mdp.39015051894387",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015051894387",
+   "rightsCode": "ic",
+   "lastUpdate": "20260312",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  },
+  {
+   "orig": "University of California",
+   "fromRecord": "003553693",
+   "htid": "ucbk.ark:/28722/h2nv99s22",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h2nv99s22",
+   "rightsCode": "ic",
+   "lastUpdate": "20220513",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  }
+ ]
+}

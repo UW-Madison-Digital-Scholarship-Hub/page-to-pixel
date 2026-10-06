@@ -1,0 +1,47 @@
+{
+ "records": {
+  "000870183": {
+   "recordURL": "https://catalog.hathitrust.org/Record/000870183",
+   "titles": [
+    "Beloved : a novel"
+   ],
+   "isbns": [
+    "9780394535975",
+    "9780394535975",
+    "9780394535975"
+   ],
+   "issns": [],
+   "oclcs": [
+    "15284982"
+   ],
+   "lccns": [
+    "86046157"
+   ],
+   "publishDates": [
+    "1987"
+   ]
+  }
+ },
+ "items": [
+  {
+   "orig": "University of Michigan",
+   "fromRecord": "000870183",
+   "htid": "mdp.49015003142743",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=mdp.49015003142743",
+   "rightsCode": "ic",
+   "lastUpdate": "20260326",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  },
+  {
+   "orig": "University of California",
+   "fromRecord": "000870183",
+   "htid": "ucbk.ark:/28722/h28k75b8j",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h28k75b8j",
+   "rightsCode": "ic",
+   "lastUpdate": "20220503",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  }
+ ]
+}

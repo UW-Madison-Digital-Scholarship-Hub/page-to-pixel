@@ -1,5 +1,7 @@
 # Excavating Texts—Data Sources, Mining, and Ownership
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UW-Madison-Digital-Scholarship-Hub/text-and-data/blob/main/02-excavating-texts/Excavating-Texts.ipynb)
+
 ## Description
 What can you actually do with the library's databases? This session maps the ecosystem of textual data available to researchers: databases with text and data mining rights, repositories and APIs, and the open web. We'll examine what TDM agreements permit, explore sources like HathiTrust, and take a critical look at web scraping — how it works, when it's appropriate, and why it's contested terrain. Underneath it all: what does it mean to treat text as data, and who controls it?
 

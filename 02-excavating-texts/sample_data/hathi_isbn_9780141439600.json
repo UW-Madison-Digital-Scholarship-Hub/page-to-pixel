@@ -1,0 +1,38 @@
+{
+ "records": {
+  "102802363": {
+   "recordURL": "https://catalog.hathitrust.org/Record/102802363",
+   "titles": [
+    "A tale of two cities"
+   ],
+   "isbns": [
+    "9780141196909",
+    "9780141196909",
+    "9780141439600",
+    "9780141439600"
+   ],
+   "issns": [],
+   "oclcs": [
+    "50937084"
+   ],
+   "lccns": [
+    "2003270053"
+   ],
+   "publishDates": [
+    "2003"
+   ]
+  }
+ },
+ "items": [
+  {
+   "orig": "University of California",
+   "fromRecord": "102802363",
+   "htid": "ucbk.ark:/28722/h2bc3t44t",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=ucbk.ark:/28722/h2bc3t44t",
+   "rightsCode": "ic",
+   "lastUpdate": "20210123",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  }
+ ]
+}

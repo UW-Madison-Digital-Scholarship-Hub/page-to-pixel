@@ -1,0 +1,38 @@
+{
+ "records": {
+  "005096256": {
+   "recordURL": "https://catalog.hathitrust.org/Record/005096256",
+   "titles": [
+    "Silent spring"
+   ],
+   "isbns": [
+    "9780618249060",
+    "9780618249060",
+    "9780618253050",
+    "9780618253050"
+   ],
+   "issns": [],
+   "oclcs": [
+    "50751491"
+   ],
+   "lccns": [
+    "2002726803"
+   ],
+   "publishDates": [
+    "2002"
+   ]
+  }
+ },
+ "items": [
+  {
+   "orig": "Harvard University",
+   "fromRecord": "005096256",
+   "htid": "hvd.32044126849165",
+   "itemURL": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044126849165",
+   "rightsCode": "ic",
+   "lastUpdate": "20260926",
+   "enumcron": false,
+   "usRightsString": "Limited (search-only)"
+  }
+ ]
+}
