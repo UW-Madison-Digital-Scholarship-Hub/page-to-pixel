@@ -1,10 +1,15 @@
-# Page to Pixel—Digitization, OCR, and Making Texts into Data
+# Text & Data: Workshops on Computational Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UW-Madison-Digital-Scholarship-Hub/page-to-pixel/blob/main/Page-to-Pixel.ipynb)
+This five-session, hands-on series will explore how text becomes data and how data then becomes text. We'll cover the various stages of the process from optical character recognition (OCR) and digitization through data sourcing and licensing to tokenization, classification, and language generation with a locally hosted model. Every session focuses on a specific stage of the process and what's gained and lost when machines read and write. Come to one, or all five. No experience needed.
 
-## Description
-Where does digital text come from? Go behind the scenes of digitization, from the handling of physical materials to the computational work of turning scanned images into searchable text. We'll look at how projects like Google Books and HathiTrust shaped what's available to researchers, then work hands-on with optical character recognition (OCR). You'll leave knowing what OCR errors look like, how to judge whether a source is clean enough to analyze, and why the origins of digital text matter. 
+All sessions are Tuesdays, 1:00–2:30 p.m., in Memorial Library 231 (second floor computer classroom).
 
-## Details
-When: Tuesday, September 22, 2026 | 1-2:30 p.m
-Where: Memorial Library 231 (second floor computer classroom)
+| # | Workshop | Date |
+|---|----------|------|
+| 1 | [From Page to Pixel—Digitization, OCR, and Making Texts into Data](01-page-to-pixel/) | September 22, 2026 |
+| 2 | [Excavating Texts—Data Sources, Mining, and Ownership](02-excavating-texts/) | October 6, 2026 |
+| 3 | What's in a Word—Breaking Texts and Making Data | October 20, 2026 |
+| 4 | The Math of Meaning—Counting and Modeling Textual Data | November 3, 2026 |
+| 5 | Making Text—Computational Language Generation | November 17, 2026 |
+
+Each workshop folder has its own README and notebook, which can be opened in Google Colab from the badge at the top of that README.
